@@ -30,12 +30,12 @@ You should complete at least the first 4 of the following steps to make sure you
 
  1. Visit [https://git-scm.com/downloads/mac](https://git-scm.com/downloads/mac) and follow the instructions to install using the method of your choice:
      - Using Homebrew: enter the command
-       
+
        ```
        brew install git
        ```
      - Using MacPorts : enter the command
-       
+
        ```
        sudo port install git
        ```
@@ -51,11 +51,11 @@ You should complete at least the first 4 of the following steps to make sure you
 
 ### To check installation
 
-Open a console/command-line interface (such as Git Bash) and enter 
+Open a console/command-line interface (such as Git Bash) and enter
 
 ```
 git version
-``` 
+```
 
 If this returns the installed version of Git and does not return an error, this indicates that Git is installed properly and that you can use Git commands from the command-line interface you currently have open.
 
@@ -103,13 +103,13 @@ If this returns the installed version of Git and does not return an error, this 
 
 ### To check installation
 
-Open a console/command-line interface (such as Git Bash) and enter 
+Open a console/command-line interface (such as Git Bash) and enter
 
 ```
 python -V
-``` 
+```
 
-or 
+or
 
 ```
 python3 -V
@@ -179,11 +179,11 @@ The entire bootcamp can be completed using only Python. But your experience may 
 
 #### Check installation
 
-   1. Open <A_NOTEBOOK>.
+   1. Open `lesson/helloworld/matlab/Helloworld_matlab.ipynb`.
 
-   2. Run cells ....
+   2. Ensure that the notebook is running with a Matlab kernel.
 
-      If <this executes correctly with no errors>, this indicates that the Matlab installation and the link with Jupyter were both successful.
+   3. Run the starter code cells. If you see "Hello world!!!" output and don't get errors, this indicates that the Matlab installation and the link with Jupyter were both successful.
 
 ### Install R
 
@@ -218,11 +218,11 @@ The entire bootcamp can be completed using only Python. But your experience may 
 
 #### Check installation
 
- 1. Open <A_NOTEBOOK>.
+1. Open `lesson/helloworld/R/Helloworld_R.ipynb`.
 
- 2. Run cells ....
+2. Ensure that the notebook is running with an R kernel.
 
-    If <this executes correctly with no errors>, this indicates that the R installation and the link with Jupyter were both successful.
+3. Run the starter code cells. If you see "Hello world!!!" output and don't get errors, this indicates that the R installation and the link with Jupyter were both successful.
 
 ### Install Julia
 
@@ -252,8 +252,8 @@ The entire bootcamp can be completed using only Python. But your experience may 
 
 #### Check installation
 
- 1. Open <A_NOTEBOOK>.
+1. Open `lesson/helloworld/Julia/Helloworld_Julia.ipynb`.
 
- 2. Run cells ....
+2. Ensure that the notebook is running with a Julia kernel.
 
-    If <this executes correctly with no errors>, this indicates that the Julia installation and the link with Jupyter were both successful.
+3. Run the starter code cells. If you see "Hello world!!!" output and don't get errors, this indicates that the Julia installation and the link with Jupyter were both successful.
