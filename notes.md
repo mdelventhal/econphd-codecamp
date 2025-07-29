@@ -51,7 +51,13 @@ You should complete at least the first 4 of the following steps to make sure you
 
 ### To check installation
 
-Open a console/command-line interface (such as Git Bash) and enter `git version`. If this returns the installed version of Git and does not return an error, this indicates that Git is installed properly and that you can use Git commands from the command-line interface you currently have open.
+Open a console/command-line interface (such as Git Bash) and enter 
+
+```
+git version
+``` 
+
+If this returns the installed version of Git and does not return an error, this indicates that Git is installed properly and that you can use Git commands from the command-line interface you currently have open.
 
 
 ## Clone this repository
@@ -61,12 +67,18 @@ Open a console/command-line interface (such as Git Bash) and enter `git version`
  2. Enter the following command:
 
     ```
-    git clone <THE_URL>
+    git clone https://github.com/mdelventhal/econphd-codecamp
     ```
 
-    This should download the repo and install it in a subfolder named `<THE_FOLDER>` of your current directory.
+    This should download the repo and install it in a subfolder named `econphd-codecamp` of your current directory.
 
- 4. Enter the following command: `cd <THE_FOLDER>`. This will navigate to the folder containing the repo.
+ 4. Enter the following command:
+
+    ```
+    cd econphd-codecamp
+    ```
+
+    This will navigate to the folder containing the repo.
 
 
 ## Install Python
