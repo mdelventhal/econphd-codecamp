@@ -103,7 +103,19 @@ If this returns the installed version of Git and does not return an error, this 
 
 ### To check installation
 
-Open a console/command-line interface (such as Git Bash) and enter `python version` or `python3 version`. If one of these returns the installed version of Python and does not return an error, this indicates that Python is installed properly and that you can access Python commands through the interface you currently have open using `python`/`python3`.
+Open a console/command-line interface (such as Git Bash) and enter 
+
+```
+python -V
+``` 
+
+or 
+
+```
+python3 -V`
+``
+
+If one of these returns the installed version of Python and does not return an error, this indicates that Python is installed properly and that you can access Python commands through the interface you currently have open using `python`/`python3`.
 
 ## Install basic Python packages
 
