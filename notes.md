@@ -1,3 +1,9 @@
+# Econ PhD Code Camp
+
+This repo contains all the materials for the Econ PhD Code Camp, prepared by Matt Delventhal. In the `lesson` folder you will find the lessons, consisting of notebooks with some instructions and starter code. Each lesson has materials in Python, and most lessons also have equivalent materials in R, Matlab, and/or Julia.
+
+To get ready to use these lessons you should follow the instructions in the [Installation Notes](#Install Notes) below
+
 # Install notes
 
 ## Install Git
