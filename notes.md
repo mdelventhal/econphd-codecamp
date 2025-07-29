@@ -2,9 +2,21 @@
 
 This repo contains all the materials for the Econ PhD Code Camp, prepared by Matt Delventhal. In the `lesson` folder you will find the lessons, consisting of notebooks with some instructions and starter code. Each lesson has materials in Python, and most lessons also have equivalent materials in R, Matlab, and/or Julia.
 
-To get ready to use these lessons you should follow the instructions in the [Installation Notes](#Install-Notes) below
+To get ready to use these lessons you should follow the instructions in the [Installation Notes](#Install-Notes) below.
 
 # Install notes
+
+You should complete at least the first 4 of the following steps to make sure you are ready to use these lesson materials. Steps 5 onward are recommended but optional.
+
+ 1. [Install Git](#Install-Git)
+ 2. [Clone this repo to your local machine](#Clone-this-repository)
+ 3. [Install Python](#Install-Python)
+ 4. [Install basic Python packages](#Install-basic-Python-packages)
+ 5. [Install additional languages](#Installing-additional-languages) *(optional, recommended)*
+       - [MATLAB](#Install-MATLAB)
+       - [R](#Install-R)
+       - [Julia](#Install-Julia)
+       - [MATLAB](#Install-MATLAB)
 
 ## Install Git
 
@@ -31,7 +43,7 @@ To get ready to use these lessons you should follow the instructions in the [Ins
 Open a console/command-line interface (such as Git Bash) and enter `git version`. If this returns the installed version of Git and does not return an error, this indicates that Git is installed properly and that you can use Git commands from the command-line interface you currently have open.
 
 
-## Clone the repository
+## Clone this repository
 
  1. Open a command-line interface and navigate to the location in the file system where you would like to have the folder with the coding bootcamp files.
 
