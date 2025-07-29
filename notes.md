@@ -30,10 +30,14 @@ You should complete at least the first 4 of the following steps to make sure you
 
  1. Visit [https://git-scm.com/downloads/mac](https://git-scm.com/downloads/mac) and follow the instructions to install using the method of your choice:
      - Using Homebrew: enter the command
-       ```brew install git
+       
+       ```
+       brew install git
        ```
      - Using MacPorts : enter the command
-       ```sudo port install git
+       
+       ```
+       sudo port install git
        ```
      - ...or one of the other options.
 
