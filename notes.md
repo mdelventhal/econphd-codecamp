@@ -112,8 +112,8 @@ python -V
 or 
 
 ```
-python3 -V`
-``
+python3 -V
+```
 
 If one of these returns the installed version of Python and does not return an error, this indicates that Python is installed properly and that you can access Python commands through the interface you currently have open using `python`/`python3`.
 
