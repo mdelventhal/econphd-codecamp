@@ -1,6 +1,6 @@
 # Econ PhD Code Camp
 
-This repo contains all the materials for the Econ PhD Code Camp, prepared by Matt Delventhal. In the `lesson` folder you will find the lessons, consisting of notebooks with some instructions and starter code. Each lesson has materials in Python, and most lessons also have equivalent materials in R, Matlab, and/or Julia.
+This repo contains all the materials for the Econ PhD Code Camp, prepared by [Matt Delventhal](mailto:delventh@usc.edu). In the `lesson` folder you will find the lessons, consisting of notebooks with some instructions and starter code. Each lesson has materials in Python, and most lessons also have equivalent materials in R, Matlab, and/or Julia.
 
 To get ready to use these lessons you should follow the instructions in the [Installation Notes](#Install-Notes) below.
 
@@ -44,7 +44,10 @@ You should complete at least the first 4 of the following steps to make sure you
 #### For Linux
 
  1. Visit [https://git-scm.com/downloads/linux](https://git-scm.com/downloads/linux) and follow the instructions for your Linux distribution.
-     - For example, for Ubuntu, enter the comman `apt-get install git`
+     - For example, for Ubuntu, enter the command
+     ```
+     apt-get install git
+     ```
 
 ### To check installation
 
@@ -55,11 +58,15 @@ Open a console/command-line interface (such as Git Bash) and enter `git version`
 
  1. Open a command-line interface and navigate to the location in the file system where you would like to have the folder with the coding bootcamp files.
 
- 2. Enter the following command: `git clone <THE_URL>`
+ 2. Enter the following command:
+
+    ```
+    git clone <THE_URL>
+    ```
 
     This should download the repo and install it in a subfolder named `<THE_FOLDER>` of your current directory.
 
- 3. Enter the following command: `cd <THE_FOLDER>`. This will navigate to the folder containing the repo.
+ 4. Enter the following command: `cd <THE_FOLDER>`. This will navigate to the folder containing the repo.
 
 
 ## Install Python
@@ -90,7 +97,11 @@ Open a console/command-line interface (such as Git Bash) and enter `python versi
 
  1. Open a command-line interface (such as Git Bash). Navigate to (or check that you are still in) the directory where you cloned the repo to.
 
- 2. Enter the following command: `pip install -r requirements.txt`
+ 2. Enter the following command:
+
+    ```
+    pip install -r requirements.txt
+    ```
 
     This will install the following basic packages:
          - **NumPy**: For numerical and matrix operations. Functionality is similar to basic MatLab.
