@@ -85,7 +85,7 @@ If this returns the installed version of Git and does not return an error, this 
 
 #### For Windows
 
- 1. Visit [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/) and download the installer for the latest version of Git. (As of last edit, [https://www.python.org/ftp/python/3.13.4/python-3.13.4-amd64.exe](3.13.4).)
+ 1. Visit [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/) and download the installer for the latest version. (As of last edit, [https://www.python.org/ftp/python/3.13.4/python-3.13.4-amd64.exe](3.13.4).)
 
  2. Run the installer.
 
