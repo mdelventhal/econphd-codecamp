@@ -4,6 +4,8 @@ This repo contains all the materials for the Econ PhD Code Camp, prepared by [Ma
 
 To get ready to use these lessons you should follow the instructions in the [Installation Notes](#Install-Notes) below.
 
+***NEW:*** [Git notes](#Git-notes)
+
 # Install notes
 
 You should complete at least the first 4 of the following steps to make sure you are ready to use these lesson materials. Steps 5 onward are recommended but optional.
@@ -257,3 +259,70 @@ The entire bootcamp can be completed using only Python. But your experience may 
 2. Ensure that the notebook is running with a Julia kernel.
 
 3. Run the starter code cells. If you see "Hello world!!!" output and don't get errors, this indicates that the Julia installation and the link with Jupyter were both successful.
+
+# Git notes
+
+Some notes on managing your class materials with Git.
+
+## Git branching
+
+When you're ready to create a new local branch, use the following command:
+
+```
+git checkout -b <branch-name>
+```
+
+This will create a new branch and bring along any uncommitted changes.
+
+You can commit your uncommitted changes to the new branch by then following the usual procedure. For example:
+
+  1. To make sure everything looks right:
+     ```
+     git status
+     ```
+  2. To stage all the changes:
+     ```
+     add .
+     ```
+  3. To commit:
+     ```
+     git commit -m "<your commit message>"
+     ```
+## Pulling updates from the remote
+
+Once you're ready and all your local changes are either committed or "stashed" (Google it or ask your instructor if you feel you might need to "stash" something), simply enter the following:
+
+```
+git pull
+```
+
+To be extra safe, you might want to create your own branch locally and commit your day-to-day edits there first before pulling updates.
+
+## Merging
+
+To merge new updates from `main` into your personal branch, first, make sure you have your branch checked out. You can do this by entering
+
+```
+git checkout <your-personal-branch>
+```
+
+You may also want to type
+
+```
+git status
+```
+
+...to check and make sure you've committed any changes in your branch.
+
+Then, enter
+
+```
+git merge main
+```
+
+This will merge new updates from main into your current branch.
+
+If there are updates from both sides, Git will probably be able to resolve them automatically. Occasionally it fails, especially with Jupyter notebooks. If you have any issue, let your instructor know and they'll help you out!
+
+
+     
