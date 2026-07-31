@@ -1,10 +1,19 @@
 # Econ PhD Code Camp
 
-This repo contains all the materials for the Econ PhD Code Camp, prepared by [Matt Delventhal](mailto:delventh@usc.edu). In the `lesson` folder you will find the lessons, consisting of notebooks with some instructions and starter code. Each lesson has materials in Python, and most lessons also have equivalent materials in R, Matlab, and/or Julia.
+This repo contains all the materials for the Econ PhD Code Camp, prepared by [Matt Delventhal](mailto:delventh@usc.edu). In the `lesson` folder you will find the lessons, consisting of notebooks with some instructions and starter code. Each lesson has materials in Python, and many lessons also have equivalent materials in R, Matlab, and/or Julia.
 
-To get ready to use these lessons you should follow the instructions in the [Installation Notes](#Install-Notes) below.
+For the code camp, our primary modality for running code will to open the lesson notebooks in Google Colab. You can access notebooks for the first two lessons using the links in the directory below:
 
-***NEW:*** [Git notes](#Git-notes)
+ 1. Hello World
+      - [Helloworld](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/00_helloworld/Helloworld.ipynb)
+ 2. The Basics
+      - [numeric_datatypes](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson//01_the_basics/numeric_datatypes.ipynb)
+      - [strings_arrays_and_for_loops](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson//01_the_basics/strings_arrays_and_for_loops.ipynb)
+      - [pe_sequences_limits](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/00_helloworld/pe_sequences_limits.ipynb)
+
+
+
+***If you are interested,*** instructions for installing and running the lessons on your local machine are provided in the [Installation Notes](#Install-Notes) below. This is **not** necessary or expected for the Code Camp, but it can provide good practice for getting familiar with common software development tools and practices, and it might be more comfortable or convenient for students who are already familiar with these tools.
 
 # Install notes
 
