@@ -21,8 +21,25 @@ For the code camp, our primary modality for running code will to open the lesson
  4. Linear Algebra
       - [linear_algebra](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/04_linear_algebra/linear_algebra.ipynb)
       - [pe_det_eigen](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/04_linear_algebra/pe_det_eigen.ipynb)
-
-
+ 5. Numerical Calculus
+      - [numerical_diff](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/05_numerical_calculus/numerical_diff.ipynb)
+      - [numerical_int](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/05_numerical_calculus/numerical_int.ipynb)
+      - [pe_iterative_calc](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/05_numerical_calculus/pe_iterative_calc.ipynb)
+ 6. Object-Oriented Programming
+      - [oop_intro](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/06_oop/oop_intro.ipynb)
+      - [pe_lhopitals_oop](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/06_oop/pe_lhopitals_oop.ipynb)
+ 7. Intro to Optimization
+      - [measuring_performance](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/07_optimization_intro/measuring_performance.ipynb)
+      - [grid_search](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/07_optimization_intro/grid_search.ipynb)
+ 8. More Optimization
+      - [num_opt_lesson_and_pe](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/08_more_optimization/num_opt_lesson_and_pe.ipynb)
+ 9. Data
+      - [data_load_and_manipulate](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/09_data/data_load_and_manipulate.ipynb)
+ 10. Statistics
+      - [sampling](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/10_statistics/sampling.ipynb)
+      - [pe_lln](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/10_statistics/pe_lln.ipynb)
+      - [modeling](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/10_statistics/modeling.ipynb)
+      - [pe_clt](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/10_statistics/pe_clt.ipynb)
 
 ***If you are interested,*** instructions for installing and running the lessons on your local machine are provided in the [Installation Notes](#Install-Notes) below. This is **not** necessary or expected for the Code Camp, but it can provide good practice for getting familiar with common software development tools and practices, and it might be more comfortable or convenient for students who are already familiar with these tools.
 
