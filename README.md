@@ -2,7 +2,11 @@
 
 This repo contains all the materials for the Econ PhD Code Camp, prepared by [Matt Delventhal](mailto:delventh@usc.edu). In the `lesson` folder you will find the lessons, consisting of notebooks with some instructions and starter code. Each lesson has materials in Python, and many lessons also have equivalent materials in R, Matlab, and/or Julia.
 
-For the code camp, our primary modality for running code will to open the lesson notebooks in Google Colab. You can access notebooks for the first two lessons using the links in the directory below:
+For the code camp, our primary modality for running code will to open the lesson notebooks in Google Colab.
+ - **To open a notebook in Colab:** Click on the provided link.
+ - **To save your own copy of the notebook:** Use to drop-down menu `File` -> `Save a copy in Drive`.
+
+You can access notebooks for the first two lessons using the links in the directory below:
 
  0. Hello World
       - [Helloworld](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/00_helloworld/Helloworld.ipynb)
