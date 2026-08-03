@@ -4,12 +4,23 @@ This repo contains all the materials for the Econ PhD Code Camp, prepared by [Ma
 
 For the code camp, our primary modality for running code will to open the lesson notebooks in Google Colab. You can access notebooks for the first two lessons using the links in the directory below:
 
- 1. Hello World
+ 0. Hello World
       - [Helloworld](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/00_helloworld/Helloworld.ipynb)
- 2. The Basics
-      - [numeric_datatypes](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson//01_the_basics/numeric_datatypes.ipynb)
-      - [strings_arrays_and_for_loops](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson//01_the_basics/strings_arrays_and_for_loops.ipynb)
+ 1. The Basics
+      - [numeric_datatypes](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/01_the_basics/numeric_datatypes.ipynb)
+      - [strings_arrays_and_for_loops](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/01_the_basics/strings_arrays_and_for_loops.ipynb)
       - [pe_sequences_limits](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/01_the_basics/pe_sequences_limits.ipynb)
+ 2. Plotting Equations
+      - [latex_typesetting](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/latex_typesetting)
+      - [plotting](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/plotting.ipynb)
+      - [pe_discontinuous_functions](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/pe_discontinuous_functions.ipynb)
+ 3. Functions
+      - [functions](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/03_functions/functions)
+      - [if_else_while](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/03_functions/if_else_while.ipynb)
+      - [pe_taylor_series](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/03_functions/pe_taylor_series.ipynb)
+ 4. Linear Algebra
+      - [linear_algebra](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/04_linear_algebra/linear_algebra)
+      - [pe_det_eigen](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/04_linear_algebra/pe_det_eigen.ipynb)
 
 
 
