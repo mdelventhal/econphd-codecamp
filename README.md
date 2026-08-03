@@ -15,11 +15,11 @@ For the code camp, our primary modality for running code will to open the lesson
       - [plotting](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/plotting.ipynb)
       - [pe_discontinuous_functions](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/pe_discontinuous_functions.ipynb)
  3. Functions
-      - [functions](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/03_functions/functions)
+      - [functions](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/03_functions/functions.ipynb)
       - [if_else_while](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/03_functions/if_else_while.ipynb)
       - [pe_taylor_series](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/03_functions/pe_taylor_series.ipynb)
  4. Linear Algebra
-      - [linear_algebra](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/04_linear_algebra/linear_algebra)
+      - [linear_algebra](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/04_linear_algebra/linear_algebra.ipynb)
       - [pe_det_eigen](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/04_linear_algebra/pe_det_eigen.ipynb)
 
 
