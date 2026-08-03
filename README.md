@@ -9,7 +9,7 @@ For the code camp, our primary modality for running code will to open the lesson
  2. The Basics
       - [numeric_datatypes](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson//01_the_basics/numeric_datatypes.ipynb)
       - [strings_arrays_and_for_loops](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson//01_the_basics/strings_arrays_and_for_loops.ipynb)
-      - [pe_sequences_limits](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/00_helloworld/pe_sequences_limits.ipynb)
+      - [pe_sequences_limits](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/01_the_basics/pe_sequences_limits.ipynb)
 
 
 
