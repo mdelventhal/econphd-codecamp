@@ -15,6 +15,7 @@ You can access notebooks for the first two lessons using the links in the direct
       - [strings_arrays_and_for_loops](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/01_the_basics/strings_arrays_and_for_loops.ipynb)
       - [pe_sequences_limits](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/01_the_basics/pe_sequences_limits.ipynb)
  2. Plotting Equations
+      - [ranges_and_linear_spaces]([https://github.com/](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/ranges_and_linear_spaces.ipynb)
       - [latex_typesetting](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/latex_typesetting.ipynb)
       - [plotting](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/plotting.ipynb)
       - [pe_discontinuous_functions](https://colab.research.google.com/github/mdelventhal/econphd-codecamp/blob/main/lesson/02_plotting_equations/pe_discontinuous_functions.ipynb)
