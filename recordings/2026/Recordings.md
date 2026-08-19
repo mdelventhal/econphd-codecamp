@@ -7,3 +7,6 @@
  - Lesson 04 - [Coding Linear Algebra](https://usc.zoom.us/rec/share/r8rAt0ZPG_VSrSCRHcN2NNgN5OMC0FO9aNyimuShuYye6TLSym2TsH6YwavqGXHJ.xvzrnfLNFprGxfT6)
  - Lesson 05 - [Numerical Differentiation and Integration](https://usc.zoom.us/rec/share/DUbWR3Y_Qc-Mp6B3bVOwl2-_PiphKQus-7dxwCxKNBiAlHSeq6EGWVEXn2BQvI8Z.TD10BhWJiL6z-z98)
  - Lesson 06 - [Object-Oriented Programming](https://usc.zoom.us/rec/share/4HpJ4DE2D7oy9VEebmvTjgzfFSjUcekRFUcIQ5Za3Y-vnZevffomxHbr5EggOTvF.unMmGhauZYxCrHR6)
+ - Lesson 07 - [Intro to Numerical Optimization](https://usc.zoom.us/rec/share/APo5qIUTQg4pjXtv0ppH0kQKzVaSRjt5SSjwldMWUhYKPoEyyvLW615iEuZMq25W.oMOPJ6s3H3ZS9uj7)
+ - Lesson 08 - [More Optimization](https://usc.zoom.us/rec/share/X2SikfV1GftQoPkTGMNJ9SCJzfyTWIr6nWj5VVj3vR94w5VA5DbCCnJNCuleSZfu.vf9W8oYlVnHV8lSp)
+ - Lesson 09 - [Data Input and Manipulation](https://usc.zoom.us/rec/share/15T4gcyDeC75L28VektQqvt3hhJeUrF8DOHoby_zYRIzCIEHPYqJXn8W0CFdxILX.oDM4ZkkDldyDYcEw)
